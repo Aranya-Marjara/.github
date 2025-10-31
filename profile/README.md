@@ -19,12 +19,12 @@
 
 ## 🌳 About the Collective
 
-**Aranya-Marjara** (Sanskrit: *Forest Cat*) is a **non-profit open-source collective** —  
-currently maintained by a single developer — exploring how technology can be  
+**Aranya-Marjara** (Sanskrit: *Wild Cat*) is a **non-profit, open-source collective** —  
+currently maintained by a single **self-taught developer** — exploring how technology can be  
 as **ethical, adaptive, and harmonious** as nature itself.
 
 This organization focuses on creating transparent, research-driven software,  
-mainly in the fields of **Artificial Intelligence** and **Cybersecurity** (coming soon).  
+mainly in the fields of **Artificial Intelligence** and, in the future, **Cybersecurity**.  
 Every project here is built with respect for **freedom, privacy, and learning**.
 
 ---
@@ -33,7 +33,7 @@ Every project here is built with respect for **freedom, privacy, and learning**.
 
 - **Ethical by Design** — open, transparent, and non-commercial  
 - **Silent Execution** — code that works beautifully without noise  
-- **Adaptive Architecture** — systems evolving like living organisms  
+- **Adaptive Architecture** — systems that evolve like living organisms  
 - **Knowledge as a Forest** — shared freely to grow and thrive  
 - **Security as Respect** — protecting users and their data  
 
@@ -55,9 +55,9 @@ Every project here is built with respect for **freedom, privacy, and learning**.
 ### 🎯 **Current Hunting Party**
 
 At present, the forest is tended by a **solo wanderer** —  
-each “party” below represents a domain of ongoing or future exploration.
+each “party” below represents a focus area of ongoing or future exploration.
 
-- 🦁 **Backend Beasts** — AI logic, training, and architecture *(active)*  
+- 🦁 **Backend Beasts** — AI logic, model training, and architecture *(active)*  
 - 🐾 **Frontend Forest** — interfaces and visualization *(planned)*  
 - 🐍 **DevOps Den** — lightweight automation and deployment *(maintained)*  
 - 🦉 **Wildlife Watch** — documentation, learning, and outreach *(ongoing)*  
