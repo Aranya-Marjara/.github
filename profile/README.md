@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aranya-Marjara Banner](https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk.png)
+![Aranya-Marjara Banner](https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk2.png)
 
 <!-- Replace this placeholder with your real banner -->
 
