@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/banner.png" alt="Aranya-Marjara Banner" width="100%">
+![Aranya-Marjara Banner](https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk.png)
+
 <!-- Replace this placeholder with your real banner -->
 
 # 🐾 Aranya-Marjara
