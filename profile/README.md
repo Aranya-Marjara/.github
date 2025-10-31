@@ -1,72 +1,71 @@
 <div align="center">
 
-![Aranya-Marjara Banner](https://via.placeholder.com/1280x640/0f172a/5D8F5A?text=Aranya-Marjara+Organization)
-<!-- Replace the above with a real banner if you want -->
+![Aranya-Marjara Banner](https://via.placeholder.com/1280x640/0f172a/5D8F5A?text=Aranya-Marjara)
+<!-- Replace this placeholder with your real banner -->
 
-# 🐾 Aranya-Marjara Collective
+# 🐾 Aranya-Marjara
 
 ### *Where Code Meets the Wilderness*
 
-**"Building digital ecosystems with the grace of a forest cat and the wisdom of the ancient woods."**
+**"Building ethical open-source ecosystems with the grace of a forest cat and the wisdom of the ancient woods."**
 
 [![Projects](https://img.shields.io/badge/🌿-Our_Projects-5D8F5A)](#-our-forest-ecosystem)
-[![Contributing](https://img.shields.io/badge/🐾-Join_the_Pride-5D8F5A)](#-join-the-pride)
-[![Contact](https://img.shields.io/badge/🌌-Find_Us-5D8F5A)](#-find-us-in-the-digital-wilderness)
+[![Vision](https://img.shields.io/badge/🌌-Our_Vision-5D8F5A)](#-about-the-collective)
+[![Ethics](https://img.shields.io/badge/🕊️-Ethical_&_Free-5D8F5A)](#-our-core-beliefs)
 
 </div>
 
 ---
 
-## 🌳 About Our Tribe
+## 🌳 About the Collective
 
-**Aranya-Marjara** (Sanskrit: *Forest Cat*) is a collective of developers, designers, and digital craftsmen who believe in building software that is:
+**Aranya-Marjara** (Sanskrit: *Forest Cat*) is a **non-profit open-source collective** —  
+currently maintained by a single developer — exploring how technology can be  
+as **ethical, adaptive, and harmonious** as nature itself.
 
-- **Elegant & Efficient** — like a predator’s movement through the jungle  
-- **Sustainable & Scalable** — as resilient as a forest ecosystem  
-- **Intuitive & Native** — feeling as natural as the wilderness itself  
-
-We operate at the intersection of technology and nature, creating tools that serve both digital and environmental harmony.
+This organization focuses on creating transparent, research-driven software,  
+mainly in the fields of **Artificial Intelligence** and **Cybersecurity** (coming soon).  
+Every project here is built with respect for **freedom, privacy, and learning**.
 
 ---
 
 ## 🏹 Our Core Beliefs
 
-- **Silent Execution** — code should work beautifully without unnecessary noise  
-- **Adaptive Architecture** — systems should evolve like natural organisms  
-- **Community as Ecosystem** — every contributor enriches our digital forest  
-- **Open Source as Natural Law** — knowledge, like nature, should be free to grow  
+- **Ethical by Design** — open, transparent, and non-commercial  
+- **Silent Execution** — code that works beautifully without noise  
+- **Adaptive Architecture** — systems evolving like living organisms  
+- **Knowledge as a Forest** — shared freely to grow and thrive  
+- **Security as Respect** — protecting users and their data  
 
 ---
 
 ## 🛠️ Our Forest Ecosystem
 
-### 🌟 **Featured Projects**
+### 🌟 **Current Projects**
 
 | Project | Status | Description |
 |----------|---------|-------------|
 | [ScoutAgent](https://github.com/Aranya-Marjara/ScoutAgent) | 🟢 Active | Autonomous research and news intelligence agent |
-| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🧠 Research | Compact transformer model built from scratch |
+| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🧠 Research | Compact transformer model built from scratch to study LLMs |
 
-
----
-
+*(Cybersecurity projects will sprout soon...)*
 
 ---
-
 
 ### 🎯 **Current Hunting Party**
 
-Right now, the forest is quiet — tended by a single wanderer.  
-Each “party” below is a trail waiting to be explored as the tribe grows.
+At present, the forest is tended by a **solo wanderer** —  
+each “party” below represents a domain of ongoing or future exploration.
 
-- 🐾 **Frontend Forest** — UI/UX and web interfaces (coming soon)  
-- 🦁 **Backend Beasts** — core logic and architecture (active)  
-- 🐍 **DevOps Den** — infra and deployment (solo maintained)  
-- 🦉 **Wildlife Watch** — docs, cleanup, and community (you’re looking at it)  
+- 🦁 **Backend Beasts** — AI logic, training, and architecture *(active)*  
+- 🐾 **Frontend Forest** — interfaces and visualization *(planned)*  
+- 🐍 **DevOps Den** — lightweight automation and deployment *(maintained)*  
+- 🦉 **Wildlife Watch** — documentation, learning, and outreach *(ongoing)*  
+- 🛡️ **Cyber Canopy** — security tools and ethical hacking *(future path)*  
 
 ---
 
-## 📜 Our Digital Canopy
+## 📜 The Digital Canopy
 
 <div align="center">
 
@@ -74,10 +73,10 @@ Each “party” below is a trail waiting to be explored as the tribe grows.
 graph TD
     A[Aranya-Marjara Roots] --> B[Open Source Philosophy]
     A --> C[Nature-Inspired Design]
-    A --> D[Community Focus]
-    B --> E[Transparent Development]
-    C --> F[Sustainable Architecture]
-    D --> G[Collective Growth]
-    E --> H[Public Roadmaps]
-    F --> I[Eco-friendly Hosting]
-    G --> J[Mentorship Programs]
+    A --> D[Ethical Development]
+    B --> E[Transparency & Freedom]
+    C --> F[Sustainable Code]
+    D --> G[Privacy & Security]
+    E --> H[Community Knowledge]
+    F --> I[AI Research]
+    G --> J[Future Cybersecurity Tools]
