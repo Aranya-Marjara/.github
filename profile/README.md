@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aranya-Marjara Banner](https://via.placeholder.com/1280x640/0f172a/5D8F5A?text=Aranya-Marjara)
+![Aranya-Marjara Banner](https://dummyimage.com/1280x640/0f172a/5D8F5A.png&text=Aranya-Marjara)
 <!-- Replace this placeholder with your real banner -->
 
 # 🐾 Aranya-Marjara
@@ -59,7 +59,7 @@ each “party” below represents a focus area of ongoing or future exploration.
 
 - 🦁 **Backend Beasts** — AI logic, model training, and architecture *(active)*  
 - 🐾 **Frontend Forest** — interfaces and visualization *(planned)*  
-- 🐍 **DevOps Den** — lightweight automation and deployment *(maintained)*  
+- ⚙️ **DevOps Den** — lightweight automation and deployment *(maintained)*  
 - 🦉 **Wildlife Watch** — documentation, learning, and outreach *(ongoing)*  
 - 🛡️ **Cyber Canopy** — security tools and ethical hacking *(future path)*  
 
