@@ -44,33 +44,25 @@ We operate at the intersection of technology and nature, creating tools that ser
 
 | Project | Status | Description |
 |----------|---------|-------------|
-| **[Vanlila](https://github.com/Aranya-Marjara/vanlila)** | ![Active](https://img.shields.io/badge/🟢-Active-5D8F5A) | Forest-themed design system for web applications |
-| **[JungleDB](https://github.com/Aranya-Marjara/jungledb)** | ![Active](https://img.shields.io/badge/🟢-Active-5D8F5A) | NoSQL database inspired by ecosystem relationships |
-| **[PawPrint](https://github.com/Aranya-Marjara/pawprint)** | ![Beta](https://img.shields.io/badge/🟡-Beta-F0C420) | Digital footprint analyzer and privacy tool |
+| [ScoutAgent](https://github.com/Aranya-Marjara/ScoutAgent) | 🟢 Active | Autonomous research and news intelligence agent |
+| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🧠 Research | Compact transformer model built from scratch |
+
 
 ---
 
-### 🍃 **Seedlings** (New Projects)
-- **Whispering Leaves** — real-time collaborative editor  
-- **Moonlight Compiler** — language tools for nocturnal coding sessions  
-- **Sacred Grove** — decentralized community platform  
 
 ---
 
-## 🐾 Join the Pride
 
-We’re always looking for fellow digital wildlife to join our collective.  
+### 🎯 **Current Hunting Party**
 
-### 🌱 **For New Adventurers**
-1. Explore our [Contributing Guide](CONTRIBUTING.md)  
-2. Find a [Good First Issue](https://github.com/orgs/Aranya-Marjara/projects?query=is%3Aopen+label%3A%22good+first+issue%22)  
-3. Join our [Discussions](https://github.com/orgs/Aranya-Marjara/discussions)  
+Right now, the forest is quiet — tended by a single wanderer.  
+Each “party” below is a trail waiting to be explored as the tribe grows.
 
-### 🎯 **Current Hunting Parties**
-- **Frontend Forest** — UI/UX and web interfaces  
-- **Backend Beasts** — API and server architecture  
-- **DevOps Den** — infrastructure and deployment  
-- **Wildlife Watch** — documentation and community  
+- 🐾 **Frontend Forest** — UI/UX and web interfaces (coming soon)  
+- 🦁 **Backend Beasts** — core logic and architecture (active)  
+- 🐍 **DevOps Den** — infra and deployment (solo maintained)  
+- 🦉 **Wildlife Watch** — docs, cleanup, and community (you’re looking at it)  
 
 ---
 
