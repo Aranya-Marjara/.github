@@ -9,7 +9,7 @@
 **"Building ethical open-source ecosystems with the grace of a Wild Cat and the wisdom of the ancient woods."**
 
 [![Projects](https://img.shields.io/badge/🌿-Our_Projects-5D8F5A)](#-our-forest-ecosystem)
-[![Vision](https://img.shields.io/badge/🌌-Our_Vision-5D8F5A)](#-about-the-collective)
+[![Vision](https://img.shields.io/badge/🌌-Our_Vision-5D8F5A)](#-about-the-organization)
 [![Ethics](https://img.shields.io/badge/🕊️-Ethical_&_Free-5D8F5A)](#-our-core-beliefs)
 
 </div>
@@ -45,8 +45,8 @@ Every project here is built with respect for **freedom, privacy, and learning**.
 | Project | Status | Description |
 |----------|---------|-------------|
 | [ScoutAgent](https://github.com/Aranya-Marjara/ScoutAgent) | 🟢 Active | Autonomous research and news intelligence agent |
-| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🧠 Research | Compact transformer model built from scratch to study LLMs |
-
+| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🟢 Active | Compact transformer model built from scratch to study LLMs |
+| [VanaSight](https://github.com/Aranya-Marjara/vanasight) | 🟢 Active | Complete computer vision pipeline — *From Pixels to Perception* |
 *(Cybersecurity projects will sprout soon...)*
 
 ---
