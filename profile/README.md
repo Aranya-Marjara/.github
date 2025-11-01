@@ -6,7 +6,7 @@
 
 ### *Where Code Meets the Wilderness*
 
-**"Building ethical open-source ecosystems with the grace of a forest cat and the wisdom of the ancient woods."**
+**"Building ethical open-source ecosystems with the grace of a Wild Cat and the wisdom of the ancient woods."**
 
 [![Projects](https://img.shields.io/badge/🌿-Our_Projects-5D8F5A)](#-our-forest-ecosystem)
 [![Vision](https://img.shields.io/badge/🌌-Our_Vision-5D8F5A)](#-about-the-collective)
@@ -16,9 +16,9 @@
 
 ---
 
-## 🌳 About the Collective
+## 🌳 About the Organization
 
-**Aranya-Marjara** (Sanskrit: *Wild Cat*) is a **non-profit, open-source collective** —  
+**Aranya-Marjara** (Sanskrit: *Wild Cat*) is a **non-profit, open-source organization** —  
 currently maintained by a single **self-taught developer** — exploring how technology can be  
 as **ethical, adaptive, and harmonious** as nature itself.
 
