@@ -9,13 +9,18 @@
   const hour = new Date().getHours();
   let greeting = "नमस्कारः"; // Default
 
-  if (hour >= 4 && hour < 12) greeting = "सुप्रभातम्";         // Good Morning
-  else if (hour >= 12 && hour < 17) greeting = "शुभमध्याह्नम्"; // Good Afternoon
-  else if (hour >= 17 && hour < 21) greeting = "शुभसायंकालः";   // Good Evening
-  else greeting = "शुभरात्रिः";                                 // Good Night
+  if (hour >= 4 && hour < 12)
+    greeting = "सुप्रभातम्"; // Good Morning
+  else if (hour >= 12 && hour < 17)
+    greeting = "शुभमध्याह्नम्"; // Good Afternoon
+  else if (hour >= 17 && hour < 21)
+    greeting = "शुभसायंकालः"; // Good Evening
+  else
+    greeting = "शुभरात्रिः"; // Good Night
 
   document.getElementById("greeting").innerText = greeting;
 </script>
+
 
 # 🐾 Aranya-Marjara
 
