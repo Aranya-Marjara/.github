@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk2.png" alt="Aranya-Marjara Banner" width="100%">
 </div>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Namaskar!+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=नमस्कारः" />
 </h3>
+
 # 🐾 Aranya-Marjara
 
 ### *Where Code Meets the Wilderness*
