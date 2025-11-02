@@ -1,25 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk2.png" alt="Aranya-Marjara Banner" width="100%">
 </div>
-<h3 align="center" id="greeting" style="font-family:'Noto Sans Devanagari', sans-serif; font-size:35px;">
-  नमस्कारः
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=100&duration=4000&lines=नमस्कारः" />
 </h3>
 
-<script>
-  const hour = new Date().getHours();
-  let greeting = "नमस्कारः"; // Default
-
-  if (hour >= 4 && hour < 12)
-    greeting = "सुप्रभातम्"; // Good Morning
-  else if (hour >= 12 && hour < 17)
-    greeting = "शुभमध्याह्नम्"; // Good Afternoon
-  else if (hour >= 17 && hour < 21)
-    greeting = "शुभसायंकालः"; // Good Evening
-  else
-    greeting = "शुभरात्रिः"; // Good Night
-
-  document.getElementById("greeting").innerText = greeting;
-</script>
 
 
 # 🐾 Aranya-Marjara
