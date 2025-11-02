@@ -78,9 +78,12 @@ graph TD
     F --> I[AI Research]
     G --> J[Future Cybersecurity Tools]
 ```
-
-
+ </div>
+---
+<div align="center">
+  
 ## ⚠️ Disclaimer
 
 All projects are experimental and research-focused. Code is provided as-is. No formal security audits have been conducted. Users should evaluate tools before using them in production.
+</div>
 
