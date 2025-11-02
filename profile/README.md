@@ -18,14 +18,13 @@
 
 ## 🌳 About the Organization
 
-**Aranya-Marjara** (Sanskrit: *Wild Cat*) is a **non-profit, open-source organization** —  
+**Aranya-Marjara** (Sanskrit: *Wild Cat*) is a **open-source organization** —  
 currently maintained by a single **self-taught developer** — exploring how technology can be  
 as **ethical, adaptive, and harmonious** as nature itself.
 
 This organization focuses on creating transparent, research-driven software,  
 mainly in the fields of **Artificial Intelligence** and, in the future, **Cybersecurity**.  
-Every project here is built with respect for **freedom, privacy, and learning**.
-
+Every project here is built with respect for **freedom, privacy, learning** and the projects are intended purely for **educational** or **research purposes**, not for **commercial use** or **competition**.
 ---
 
 ## 🏹 Our Core Beliefs
@@ -34,8 +33,7 @@ Every project here is built with respect for **freedom, privacy, and learning**.
 - **Silent Execution** — code that works beautifully without noise  
 - **Adaptive Architecture** — systems that evolve like living organisms  
 - **Knowledge as a Forest** — shared freely to grow and thrive  
-- **Security as Respect** — protecting users and their data  
-
+- **Security as Respect** — we follow best-effort security practices to protect user data and privacy.
 ---
 
 ## 🛠️ Our Forest Ecosystem
@@ -79,3 +77,10 @@ graph TD
     E --> H[Community Knowledge]
     F --> I[AI Research]
     G --> J[Future Cybersecurity Tools]
+```
+</div>
+
+## ⚠️ Disclaimer
+
+All projects are experimental and research-focused. Code is provided as-is. No formal security audits have been conducted. Users should evaluate tools before using them in production.
+
