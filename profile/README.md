@@ -9,7 +9,7 @@
 # 🐾 Aranya-Marjara  
 ### Open-Source AI • Machine Learning • Experimental Systems
 
-Aranya-Marjara, named after the Sanskrit term for “wild cat,” is an open-source organization focused on **understanding**, **experimenting with**, and **building** the core ideas behind modern AI and ML systems.
+Aranya-Marjara, named after the Sanskrit term for “wild cat”, is an open-source organization focused on **understanding**, **experimenting with**, and **building** the core ideas behind modern AI and ML systems.
 
 This organization is maintained by a single independent, self-taught developer and exists with one purpose:  
 to create **clear, well-documented, learning-focused** implementations of foundational AI concepts — without hype or exaggeration.
@@ -110,8 +110,7 @@ Although projects may differ, most repos follow these patterns:
 - step-by-step documentation  
 - explanation of architecture decisions  
 - base models kept intentionally small  
-- reproducible experiments  
-- optional Jupyter notebooks for clarity  
+- reproducible experiments   
 
 This keeps the organization consistent and predictable.
 
