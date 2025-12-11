@@ -5,46 +5,125 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Namaskara" />
 </h3>
 
+
 # 🐾 Aranya-Marjara  
-### Open-Source AI • Research • Tooling
+### Open-Source AI • Machine Learning • Experimental Systems
 
-Aranya-Marjara is an open-source organization focused on building transparent, educational, and research-driven software in **Artificial Intelligence**, **ML systems**, and future **Cybersecurity** tooling.
+Aranya-Marjara is an open-source group focused on **understanding**, **experimenting with**, and **building** the core ideas behind modern AI and ML systems.
 
-Maintained by a single developer, the goal is to create clear, well-documented projects that help others learn how real systems work under the hood.
+This organization is maintained by a single independent developer and exists with one purpose:  
+to create **clear, well-documented, learning-focused** implementations of foundational AI concepts — without hype or exaggeration.
+
+---
+
+## 🌱 Mission
+
+Aranya-Marjara aims to:
+
+- **explore AI/ML fundamentals** through hands-on experiments  
+- **build transparent, educational implementations**  
+- **study architectures and training processes from scratch**  
+- **create simple frameworks/tools** for research and learning  
+- **document everything clearly** for others who want to understand the internals  
+
+This space is about **curiosity, experimentation, and learning**, not production systems.
 
 ---
 
 ## 🔍 Focus Areas
 
-- **AI Systems** — model training, inference pipelines, research tooling  
-- **ML Architectures** — transformers, attention mechanisms, custom layers  
-- **Vision Systems** — perception pipelines, transformations, computer vision models  
-- **Automation** — data pipelines, lightweight orchestration  
-- **Cybersecurity (future)** — ethical tools for learning and analysis  
+Aranya-Marjara explores a wide and evolving set of topics:
+
+### **1. Core AI/ML Concepts**
+- Neural networks  
+- Attention mechanisms  
+- Tokenization methods  
+- Training loops  
+- Optimization patterns  
+- Data preprocessing pipelines  
+
+### **2. Vision & Perception**
+- Image preprocessing  
+- Feature extraction  
+- Lightweight inference  
+- Small vision models  
+- Classical + neural hybrid pipelines  
+
+### **3. Language & Representation Learning**
+- Embeddings  
+- Sequence modeling  
+- Mini transformer-style architectures  
+- Practical NLP utilities  
+
+### **4. Experimental Systems**
+- Research agents  
+- Tiny automation tools  
+- Notebook-based explorations  
+- Prototype frameworks  
 
 ---
 
-## 🛠️ Projects
+## 🧭 Long-Term Direction
 
-| Project | Status | Description |
-|--------|--------|-------------|
-| [ScoutAgent](https://github.com/Aranya-Marjara/ScoutAgent) | 🟢 Active | Autonomous news & research intelligence agent |
-| [mini-transformer-lab](https://github.com/Aranya-Marjara/mini-transformer-lab) | 🟢 Active | Compact transformer model built from scratch in PyTorch to study LLM internals |
-| [VanaSight](https://github.com/Aranya-Marjara/vanasight) | 🟢 Active | Full computer-vision pipeline from image → processing → model perception |
+While individual repositories may change over time, the **core philosophy stays the same**:
 
-More projects will be added gradually as the organization grows.
+- Build things from scratch (with optional AI assistance)
+- Prioritize understanding over complexity  
+- Keep everything open, minimal, and readable  
+- Document the thought process and failures  
+- Treat the org as a personal AI/ML lab
+
+Aranya-Marjara is not tied to any specific project.  
+It’s a **long-term experimental space** where new ideas, repo structures, and concepts will appear as the journey continues.
 
 ---
 
 ## 📐 Principles
 
-- **Open Source First** — public, auditable, forkable  
-- **Educational Purpose** — focused on learning & research  
-- **Transparent Architecture** — code that explains itself  
-- **Security-Aware** — best-effort practices; not production-certified  
-- **Non-Commercial** — no monetization or competitive intent  
+### **1. Clarity First**
+Readable > Clever.  
+Transparent > Obscure.  
+Educational > Flashy.
+
+### **2. Learning-Oriented**
+Code is meant for:
+- study  
+- modification  
+- experimentation  
+- sharing ideas  
+
+### **3. Honest Scope**
+No production-scale promises.  
+No artificial hype.  
+Just clean, honest work.
+
+### **4. Open Forever**
+Everything here is free, forkable, and open to anyone exploring AI.
 
 ---
+
+## 📦 Repository Expectations
+
+Although projects may differ, most repos follow these patterns:
+
+- clear directory structure  
+- step-by-step documentation  
+- explanation of architecture decisions  
+- base models kept intentionally small  
+- reproducible experiments  
+- optional Jupyter notebooks for clarity  
+
+This keeps the organization consistent and predictable.
+
+---
+
+## 🌌 Closing Note
+
+Aranya-Marjara is a growing archive of experiments — a personal AI/ML lab in the open.  
+New ideas will arrive, old ones will evolve, and the goal remains the same:
+
+**Understand the building blocks of intelligence by building them ourselves.**
+
 
 ## ⚠️ Disclaimer
 
