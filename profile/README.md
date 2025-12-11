@@ -11,7 +11,7 @@
 
 Aranya-Marjara, named after the Sanskrit term for “wild cat,” is an open-source organization focused on **understanding**, **experimenting with**, and **building** the core ideas behind modern AI and ML systems.
 
-This organization is maintained by a single independent developer and exists with one purpose:  
+This organization is maintained by a single independent, self-taught developer and exists with one purpose:  
 to create **clear, well-documented, learning-focused** implementations of foundational AI concepts — without hype or exaggeration.
 
 ---
