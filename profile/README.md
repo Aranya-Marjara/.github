@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Namaskara" />
 </h3>
 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aranya-Marjara/.github/main/profile/olk2.png" width="100%" alt="Aranya-Marjara Banner" />
-</div>
-
 # 🐾 Aranya-Marjara  
 ### Open-Source AI • Research • Tooling
 
